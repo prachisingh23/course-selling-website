@@ -5,7 +5,7 @@ A modern Vite + React course-selling and creator-media platform. The app is buil
 Repository:
 
 ```text
-https://github.com/prachisingh23/course-selling-websiite
+https://github.com/prachisingh23/course-selling-website
 ```
 
 ## Overview
@@ -463,4 +463,3 @@ Useful next improvements:
 - Add tests for payment flows, auth guards, media queries, and admin permissions.
 - Add deployment-specific documentation for the chosen hosting provider.
 - Move public config values into documented environment variables where practical.
-
